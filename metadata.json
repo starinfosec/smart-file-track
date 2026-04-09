@@ -1,0 +1,7 @@
+{
+  "name": "Remix: Smart File Movement Tracking System",
+  "description": "A professional admin dashboard for tracking file movements using QR codes and real-time status updates.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
