@@ -24,7 +24,6 @@ interface SidebarProps {
 }
 
 const menuItems = [
-  { icon: Home, label: 'Home', path: '/' },
   { icon: LayoutDashboard, label: 'Dashboard', path: '/dashboard' },
   { icon: PlusCircle, label: 'Add File', path: '/add-file' },
   { icon: Search, label: 'Track File', path: '/track-file' },
